@@ -30,5 +30,16 @@ using the program:
 
 >2.221441469079183  
 
+## advanced example
 
+
+> Enter Formula: 
+
+`1/2*pi*sqrt(L*C)`
+
+>Enter the values of the symbols, default: {}
+
+`C=sqrt(4) L=1`
+
+>2.221441469079183  
 
